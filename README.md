@@ -22,8 +22,8 @@ Entra ID.<br />
 <h2>Sign-In Logs </h2>
 
 <p>
-<img width="1916" height="886" alt="image"
-src="https://github.com/user-attachments/assets/bae0b986-2d53-474f-9a86-c07b9b545a72" />
+<img width="1920" height="916" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/25ff779a-e59a-42c7-b496-daeac297224d" />
+
 
 
   
